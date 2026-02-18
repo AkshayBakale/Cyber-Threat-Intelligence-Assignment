@@ -1,1 +1,2 @@
 # Cyber-Threat-Intelligence-Assignment
+The scoring system helps a cybersecurity analyst quickly identify which attack techniques are more dangerous and urgent.By giving higher scores to techniques related to credentials, privilege escalation, remote access, and stealth, it highlights attacks that can cause greater impact and wider compromise.Sorting the techniques by score allows analysts to focus first on high-risk and critical threats instead of reviewing all techniques equally.
